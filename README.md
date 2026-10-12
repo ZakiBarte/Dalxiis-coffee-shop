@@ -222,7 +222,7 @@ A warm coffee palette (espresso brown, caramel accent, cream background), one cl
 
 ## 📘 Want to run it or learn from it?
 
-Installation, demo accounts, database diagram, project structure and troubleshooting are all in the **[Project Guideline →](GUIDELINE.md)**.
+Installation, demo accounts, database diagram, project structure and troubleshooting are all in the **[Project Guideline →](%20Guideline.md)**.
 
 ---
 

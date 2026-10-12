@@ -1,5 +1,5 @@
 # Dalxiis-coffee-shop
-<img src="docs/images/banner.png" alt="Dalxiis Coffee Shop" width="100%">
+<img src="/images/banner.png" alt="Dalxiis Coffee Shop" width="100%">
 
 <div align="center">
 

@@ -166,14 +166,14 @@ flowchart LR
 A warm coffee palette (espresso brown, caramel accent, cream background), one clean layout, and a navbar that changes with who is logged in.
 
 <p align="center">
-  <img src="docs/images/design-overview.png" alt="Dalxiis Coffee Shop website design" width="100%">
+  <img src="images/design-overview.png" alt="Dalxiis Coffee Shop website design" width="100%">
 </p>
 
 <table>
 <tr>
-<td width="33%"><img src="docs/images/design-menu.png" alt="Customer menu"><br><sub><b>Customer menu</b>: search, categories, add to cart</sub></td>
-<td width="33%"><img src="docs/images/design-dashboard.png" alt="Admin dashboard"><br><sub><b>Admin dashboard</b>: sales, claim queue, best sellers</sub></td>
-<td width="33%"><img src="docs/images/design-order.png" alt="Employee order page"><br><sub><b>Employee order page</b>: one-click status</sub></td>
+<td width="33%"><img src="images/design-menu.png" alt="Customer menu"><br><sub><b>Customer menu</b>: search, categories, add to cart</sub></td>
+<td width="33%"><img src="images/design-dashboard.png" alt="Admin dashboard"><br><sub><b>Admin dashboard</b>: sales, claim queue, best sellers</sub></td>
+<td width="33%"><img src="images/design-order.png" alt="Employee order page"><br><sub><b>Employee order page</b>: one-click status</sub></td>
 </tr>
 </table>
 
